@@ -33,23 +33,23 @@
 
 
 ## 🔧 Tecnologias utilizadas
-- ![TypeScript](https://img.shields.io/badge/TypeScript-%23ED8B00.svg?style=for-the-badge&logo=Typescript&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-0B1320?style=for-the-badge&logo=Typescript&logoColor=white)
 
-- ![MongoDB](https://img.shields.io/badge/MongoDB-2C2255?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-0B1320?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- ![REACT](https://img.shields.io/badge/React-02303A?style=for-the-badge&logo=react&logoColor=white)
+- ![REACT](https://img.shields.io/badge/React-0B1320?style=for-the-badge&logo=react&logoColor=white)
 
-- ![NODEJS](https://img.shields.io/badge/NodeJS-005C84?style=for-the-badge&logo=javascript&logoColor=white)
+- ![NODEJS](https://img.shields.io/badge/NodeJS-0B1320?style=for-the-badge&logo=javascript&logoColor=white)
 
-- ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- ![FIGMA](https://img.shields.io/badge/Figma-0B1320?style=for-the-badge&logo=figma&logoColor=white)
 
-- ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+- ![Trello](https://img.shields.io/badge/Trello-0B1320?style=for-the-badge&logo=Trello&logoColor=white)
 
-- ![Microsoft](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+- ![Microsoft](https://img.shields.io/badge/Microsoft_Office-0B1320?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-- ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- ![GITHUB](https://img.shields.io/badge/GitHub-0B1320?style=for-the-badge&logo=github&logoColor=white)
   
-- ![SLACK](https://img.shields.io/badge/Slack-2C2255?style=for-the-badge&logo=slack&logoColor=white)
+- ![SLACK](https://img.shields.io/badge/Slack-0B1320?style=for-the-badge&logo=slack&logoColor=white)
 
 <span id="sprints">
 
